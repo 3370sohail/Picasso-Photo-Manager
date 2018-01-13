@@ -5,7 +5,7 @@ through a local SQLite database.
 
 INSTRUCTIONS ON OPENING THE PROGRAM FROM THE COMMAND LINE
 ==========================================================
-1) cd to the 'phase2/' directory
+1) cd to the project directory
 
 2) Run the appropriate command
 
@@ -28,11 +28,10 @@ INSTRUCTIONS ON CREATING NEW INTELLIJ PROJECT FROM SOURCE FILES
 ===============================================================
 1) Import Project
 
-2) From our 'group_0441/' directory
+2) From the project directory
 
-    i) Go to 'phase2/' directory
-    ii) Select 'build.gradle'
-    iii) Continue by clicking 'OK'
+    i) Select 'build.gradle'
+    ii) Continue by clicking 'OK'
 
 3) Continue by clicking 'OK'
 
