@@ -9,7 +9,7 @@ INSTRUCTIONS ON OPENING THE PROGRAM FROM THE COMMAND LINE
 
 2) Run the appropriate command
 
-Unix Shell Script (CDF Labs)
+Unix Shell Script
 ============================
 gradlew run
 
